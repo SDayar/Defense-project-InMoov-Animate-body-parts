@@ -11,6 +11,7 @@ The application uses a Mediator class to manage multiple frames (windows) and th
 <li>PPC Frame: Dedicated to Rock-Paper-Scissors.</li>
 <li>Voice Command Frame: For voice-based interactions.</li>
   </ol>
+  
   #### Arduino Integration:
   The application interacts with an Arduino board to control hardware components.
   Real-time status updates of the Arduino board are displayed on the GUI
