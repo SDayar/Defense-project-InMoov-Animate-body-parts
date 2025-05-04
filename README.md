@@ -9,7 +9,7 @@ The application uses a Mediator class to manage multiple frames (windows) and th
 <li>Main Frame: Central hub for accessing functionalities.</li>
 <li>Games Frame: Includes games like Rock-Paper-Scissors and binary counting.</li>
 <li>PPC Frame: Dedicated to Rock-Paper-Scissors.</li>
-<li>Voice Command Frame: For voice-based interactions.</li>
+<li>Voice Command Frame: For voice-based interactions or other personalized movements.</li>
   </ol>
   
   #### Arduino Integration:
