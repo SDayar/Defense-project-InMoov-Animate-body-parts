@@ -1,0 +1,85 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/sdaya/OneDrive/Documents/2024-l2l1/CodesDoxigen/L2L1/Main.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": false
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "C:/Users/sdaya/OneDrive/Documents/2024-l2l1/CodesDoxigen/L2L1/images/logo.ico"
+  },
+  {
+   "optionDest": "name",
+   "value": "InMoovConnect"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/sdaya/OneDrive/Documents/2024-l2l1/CodesDoxigen/L2L1/images;images/."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/sdaya/OneDrive/Documents/2024-l2l1/CodesDoxigen/L2L1/Enumerations;Enumerations/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/sdaya/OneDrive/Documents/2024-l2l1/CodesDoxigen/L2L1/commands;commands/."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/sdaya/OneDrive/Documents/2024-l2l1/CodesDoxigen/L2L1/Enumerations;Enumerations/"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "pyserial"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
