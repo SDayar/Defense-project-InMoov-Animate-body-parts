@@ -91,7 +91,7 @@ The platform is designed for educational, research, and demonstration purposes, 
 ## <span style="color:#1976D2">File Organization</span>
 
 ```
-/L2L1/
+/__internal/
 │
 ├── Main.py
 ├── Mediator.py
@@ -151,4 +151,3 @@ The **L2L1 project** demonstrates a comprehensive, modular, and extensible appro
 
 ---
 
-*For further details on any specific module or implementation, please specify your request.*
