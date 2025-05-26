@@ -2,14 +2,6 @@
 
 ---
 
-## <span style="color:#388E3C">Authors</span>
-
-- **Saifidine Dayar**
-- **Loic Jin**
-- **Jacques**
-- **Shérine**
-
----
 
 ## <span style="color:#1976D2">Project Overview</span>
 
